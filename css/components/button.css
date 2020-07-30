@@ -1,0 +1,17 @@
+
+a {
+    text-decoration: none;
+}
+
+body {
+    margin: 0;
+    font-family: Open Sans;
+}
+
+.btn-primary {
+    display: inline-block;
+    background-color: #1EDD88;
+    padding: 16px 36px;
+    border-radius: 50px;
+    color: white;
+}
